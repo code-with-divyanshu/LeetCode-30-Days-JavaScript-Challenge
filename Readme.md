@@ -15,10 +15,10 @@ Each day's solution is stored in a separate file under the `day-x` format:
 
 ```
 📂 LeetCode-30Days-JS
- ┣ 📂 Day-01
+ ┣ 📂 Day-01_Problem_Name
  ┃ ┣ 📜 solution.js
  ┃ ┣ 📜 README.md
- ┣ 📂 Day-02
+ ┣ 📂 Day-02_Problem_Name
  ┃ ┣ 📜 solution.js
  ┃ ┣ 📜 README.md
  ┣ 📂 ...
@@ -28,45 +28,49 @@ Each day's solution is stored in a separate file under the `day-x` format:
 - `solution.js` → JavaScript solution to the daily problem
 - `README.md` → Explanation of the problem, approach, and optimizations
 
-## 🛠 **How to Use?**
+## 🛠 **How to Use This Repo?**
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-github-username/LeetCode-30Days-JS.git
-   ```
-2. Navigate to a day's folder:
-   ```bash
-   cd LeetCode-30Days-JS/Day-01
-   ```
-3. Run the JavaScript file:
-   ```bash
-   node solution.js
-   ```
-4. Modify and test with your own inputs!
+1️⃣ **Clone the repository**
 
-## 🚀 **Progress Tracker**
+```bash
+git clone https://github.com/code-with-divyanshu/LeetCode-30Days-JS.git
+```
 
-| Day  | Problem                              | Solution                         |
-| ---- | ------------------------------------ | -------------------------------- |
-| ✅ 1 | [Problem Name](https://leetcode.com) | [Solution](./Day-01/solution.js) |
-| ✅ 2 | [Problem Name](https://leetcode.com) | [Solution](./Day-02/solution.js) |
-| 🔄 3 | In Progress                          | --                               |
+2️⃣ **Navigate to a day's folder**
 
-_(Updating daily!)_
+```bash
+cd LeetCode-30Days-JS/Day-01_Problem_Name
+```
 
-## 📌 **Connect With Me!**
+3️⃣ **Run the JavaScript file**
 
-📌 **LeetCode Profile**: https://leetcode.com/u/runl4AVDwJ/
-📌 **GitHub**: https://github.com/code-with-divyanshu
-📌 **LinkedIn**: https://www.linkedin.com/in/divyanshu-bartwal-b7b058286/
-📌 **Twitter**: https://x.com/DivyanshuB21040
+```bash
+node solution.js
+```
 
-If you find this helpful, feel free to **star ⭐ the repo** and join the challenge with me! 🚀
+4️⃣ **Modify, test, and experiment with different approaches!** 🚀
+
+---
+
+## 📆 **Challenge Progress Tracker**
+
+| Day  | Problem                                                                                               | Solution                                                                                                                              |
+| ---- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ✅ 1 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/) | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/blob/main/Day_01_Create_Hello_World_Function) |
+| ✅ 2 | [Counter Function](https://leetcode.com/problems/counter/description/)                                | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_02_Counter)                     |
+| 🔄 3 | In Progress                                                                                           | --                                                                                                                                    |
+
+_(Updating daily! 🚀)_
+
+---
+
+## 📌 **Let's Connect!**
+
+🔗 **LeetCode** → [My Profile](https://leetcode.com/u/runl4AVDwJ/)  
+🔗 **GitHub** → [My GitHub](https://github.com/code-with-divyanshu)  
+🔗 **LinkedIn** → [Connect with Me](https://www.linkedin.com/in/divyanshu-bartwal-b7b058286/)  
+🔗 **Twitter (X)** → [Follow Me](https://x.com/DivyanshuB21040)
+
+🙌 **If you find this helpful, give it a ⭐ and join me in this challenge!**
 
 Happy Coding! 👨‍💻🔥
-
-#LeetCode #JavaScript #ProblemSolving #CodingChallenge #DSA #365DaysOfCode
-
-```
-
-```
