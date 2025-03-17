@@ -1,4 +1,4 @@
-// 1.
+// 1. Using a Traditional Function Closure
 
 var createCounter = function (n) {
   return function () {
@@ -12,7 +12,7 @@ console.log(counter1()); // = 10  The first time counter() is called, it returns
 console.log(counter1()); // = 11  Returns 1 more than the previous time.
 console.log(counter1()); // = 12  Returns 1 more than the previous time.
 
-// 2.
+// 2. Using Arrow Functions
 
 var createCounter = function (n) {
   return () => n++;
@@ -24,7 +24,7 @@ console.log(counter2()); // = 20  The first time counter() is called, it returns
 console.log(counter2()); // = 21  Returns 1 more than the previous time.
 console.log(counter2()); // = 22  Returns 1 more than the previous time.
 
-// 3.
+// 3. Most Optimized One-Liner
 
 var createCounter = (n) => () => n++;
 
