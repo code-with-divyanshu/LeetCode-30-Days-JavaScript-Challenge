@@ -58,7 +58,8 @@ node solution.js
 | ---- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | ✅ 1 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/) | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/blob/main/Day_01_Create_Hello_World_Function) |
 | ✅ 2 | [Counter Function](https://leetcode.com/problems/counter/description/)                                | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_02_Counter)                     |
-| 🔄 3 | In Progress                                                                                           | --                                                                                                                                    |
+| ✅ 3 | [To Be or Not To Be Function](https://leetcode.com/problems/to-be-or-not-to-be/description/)          | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_03_ToBe_NotToBe)                |
+| 🔄 4 | In Progress                                                                                           | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 

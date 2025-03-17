@@ -1,6 +1,6 @@
 # LeetCode - 30 Days JavaScript Challenge
 
-## 📅 Day 2: – To Be or Not To Be
+## 📅 Day 3: – To Be or Not To Be
 
 ## 📌 Problem Statement
 
