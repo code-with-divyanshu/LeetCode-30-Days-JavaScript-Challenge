@@ -1,4 +1,4 @@
-// 1.
+// 1. Using Object Methods
 
 var expect = function (val) {
   return {
@@ -21,7 +21,7 @@ var expect = function (val) {
 console.log(expect(5).toBe(5)); // true
 console.log(expect(5).notToBe(5)); // throws "Equal"
 
-// 2.
+// 2. Using Arrow Functions
 
 var expect = function (val) {
   return {
@@ -40,7 +40,7 @@ var expect = function (val) {
 console.log(expect(5).toBe(5)); // true
 console.log(expect(5).notToBe(5)); // throws "Equal"
 
-// 3.
+// 3. Optimized One-Liner Using Immediately Invoked Function Expressions (IIFE)
 
 var expect = function (val) {
   return {
