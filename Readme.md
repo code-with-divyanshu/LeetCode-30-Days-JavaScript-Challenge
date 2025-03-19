@@ -33,7 +33,7 @@ Each day's solution is stored in a separate file under the `day-x` format:
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/code-with-divyanshu/LeetCode-30Days-JS.git
+git clone https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge.git
 ```
 
 2️⃣ **Navigate to a day's folder**
@@ -54,13 +54,14 @@ node solution.js
 
 ## 📆 **Challenge Progress Tracker**
 
-| Day  | Problem                                                                                               | Solution                                                                                                                              |
-| ---- | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| ✅ 1 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/) | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/blob/main/Day_01_Create_Hello_World_Function) |
-| ✅ 2 | [Counter Function](https://leetcode.com/problems/counter/description/)                                | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_02_Counter)                     |
-| ✅ 3 | [To Be or Not To Be Function](https://leetcode.com/problems/to-be-or-not-to-be/description/)          | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_03_ToBe_NotToBe)                |
-| ✅ 3 | [Counter II Function](https://leetcode.com/problems/counter-ii/description/)                          | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_04_Counter_II)                  |
-| 🔄 5 | In Progress                                                                                           | --                                                                                                                                    |
+| Day  | Problem                                                                                                                          | Solution                                                                                                                              |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| ✅ 1 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/)                            | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/blob/main/Day_01_Create_Hello_World_Function) |
+| ✅ 2 | [Counter Function](https://leetcode.com/problems/counter/description/)                                                           | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_02_Counter)                     |
+| ✅ 3 | [To Be or Not To Be Function](https://leetcode.com/problems/to-be-or-not-to-be/description/)                                     | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_03_ToBe_NotToBe)                |
+| ✅ 4 | [Counter II Function](https://leetcode.com/problems/counter-ii/description/)                                                     | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_04_Counter_II)                  |
+| ✅ 5 | [Apply Transform Over Each Element in Array Function](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_05_Array_Transform)             |
+| 🔄 6 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
