@@ -61,7 +61,8 @@ node solution.js
 | ✅ 3 | [To Be or Not To Be Function](https://leetcode.com/problems/to-be-or-not-to-be/description/)                                     | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_03_ToBe_NotToBe)                |
 | ✅ 4 | [Counter II Function](https://leetcode.com/problems/counter-ii/description/)                                                     | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_04_Counter_II)                  |
 | ✅ 5 | [Apply Transform Over Each Element in Array Function](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_05_Array_Transform)             |
-| 🔄 6 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 6 | [Filter Elements from Array Function](https://leetcode.com/problems/apply-transform-over-each-element-in-array/)                 | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_06_Filter_Array)                |
+| 🔄 7 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
