@@ -109,5 +109,5 @@ Check out my solution on LeetCode: [`Function Composition - Solution`](https://l
 
 ## 🚀 Support & Feedback
 
-✅ If you found this helpful, **please upvote & comment** on my solution!  
+✅ If you found this helpful, **give it a ⭐ on GitHub!**  
 💬 Let’s discuss alternative solutions & improvements! 🚀

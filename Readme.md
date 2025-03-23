@@ -62,8 +62,9 @@ node solution.js
 | ✅ 4 | [Counter II Function](https://leetcode.com/problems/counter-ii/description/)                                                     | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_04_Counter_II)                  |
 | ✅ 5 | [Apply Transform Over Each Element in Array Function](https://leetcode.com/problems/apply-transform-over-each-element-in-array/) | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_05_Array_Transform)             |
 | ✅ 6 | [Filter Elements from Array Function](https://leetcode.com/problems/filter-elements-from-array/description/)                     | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_06_Filter_Array)                |
-| ✅ 7 | [Array Reduce Transformation Function](https://leetcode.com/problems/array-reduce-transformation/description/)                   | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main\Day_07_Reduce_Array)                |
-| 🔄 8 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 7 | [Array Reduce Transformation Function](https://leetcode.com/problems/array-reduce-transformation/description/)                   | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_07_Reduce_Array)                |
+| ✅ 8 | [Function Composition Function](https://leetcode.com/problems/function-composition/description/)                                 | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_08_Function_Composition)        |
+| 🔄 9 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
