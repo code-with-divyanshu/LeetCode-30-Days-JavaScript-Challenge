@@ -1,7 +1,3 @@
-Here's the **GitHub README** for **LeetCode - 30 Days JavaScript Challenge (Day 10: Allow One Function Call)**:
-
----
-
 # **LeetCode - 30 Days JavaScript Challenge**
 
 ## 📅 **Day 10: Allow One Function Call**
