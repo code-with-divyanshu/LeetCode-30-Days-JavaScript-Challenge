@@ -65,6 +65,7 @@ node solution.js
 | ✅ 7  | [Array Reduce Transformation Function](https://leetcode.com/problems/array-reduce-transformation/description/)                   | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_07_Reduce_Array)                |
 | ✅ 8  | [Function Composition Function](https://leetcode.com/problems/function-composition/description/)                                 | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_08_Function_Composition)        |
 | ✅ 9  | [Return Length of Arguments Passed Function](https://leetcode.com/problems/return-length-of-arguments-passed/description/)       | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_09_Return_Length_Argument)      |
+| ✅ 10 | [Allow One Function Call Solution Function](https://leetcode.com/problems/allow-one-function-call/description/)                  | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_10_Allow_One_Function_Call)     |
 | 🔄 10 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
