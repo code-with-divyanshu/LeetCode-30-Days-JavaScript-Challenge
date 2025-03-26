@@ -67,7 +67,8 @@ node solution.js
 | ✅ 9  | [Return Length of Arguments Passed Function](https://leetcode.com/problems/return-length-of-arguments-passed/description/)       | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_09_Return_Length_Argument)      |
 | ✅ 10 | [Allow One Function Call Solution Function](https://leetcode.com/problems/allow-one-function-call/description/)                  | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_10_Allow_One_Function_Call)     |
 | ✅ 11 | [Memorize Function](https://leetcode.com/problems/memoize/description/)                                                          | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_11_Memorize)                    |
-| 🔄 12 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 12 | [Add Two Promises Function](https://leetcode.com/problems/add-two-promises/description/)                                         | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_12_Add_Two_Promises)            |
+| 🔄 13 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
