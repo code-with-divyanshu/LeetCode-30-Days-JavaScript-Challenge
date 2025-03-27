@@ -68,7 +68,8 @@ node solution.js
 | ✅ 10 | [Allow One Function Call Solution Function](https://leetcode.com/problems/allow-one-function-call/description/)                  | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_10_Allow_One_Function_Call)     |
 | ✅ 11 | [Memorize Function](https://leetcode.com/problems/memoize/description/)                                                          | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_11_Memorize)                    |
 | ✅ 12 | [Add Two Promises Function](https://leetcode.com/problems/add-two-promises/description/)                                         | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_12_Add_Two_Promises)            |
-| 🔄 13 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 13 | [Sleep Function](https://leetcode.com/problems/sleep/description)                                                                | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_13_Sleep)                       |
+| 🔄 14 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
