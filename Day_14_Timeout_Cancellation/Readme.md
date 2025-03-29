@@ -4,7 +4,7 @@
 
 ## 🔥 **Problem Statement**
 
-🔗 **LeetCode Problem:** [`2725. Timeout Cancellation`](https://leetcode.com/problems/timeout-cancellation/description)
+🔗 **LeetCode Problem:** [`2715. Timeout Cancellation`](https://leetcode.com/problems/timeout-cancellation/description)
 
 📌 **Description:**  
 We need to create a function **`cancellable(fn, args, t)`** that schedules the execution of function `fn` with the provided arguments (`args`) after `t` milliseconds. Additionally, the function should return a **cancel function** that, when called, prevents the scheduled function from executing.
@@ -135,7 +135,7 @@ var cancellable = function (fn, args, t) {
 
 ## 🔗 **Solution Discussion**
 
-Check out my solution on LeetCode: [`2725. Timeout Cancellation - Solution`](https://leetcode.com/problems/timeout-cancellation/solutions/6589770/2715leetcode-timeout-cancellation-soluti-jhx3)
+Check out my solution on LeetCode: [`2715. Timeout Cancellation - Solution`](https://leetcode.com/problems/timeout-cancellation/solutions/6589770/2715leetcode-timeout-cancellation-soluti-jhx3)
 
 ---
 
