@@ -166,8 +166,8 @@ Check out my solution on LeetCode: [2725. Interval Cancellation - Solution](http
 
 ---
 
-## 💬 Discussion & Feedback
+## 💬 **Discussion & Feedback**
 
-✅ If you found this helpful, **please star ⭐ the repository!**
-💡 **Have a different approach? Found a bug?**
-Let’s discuss and improve the solution together! 🚀🔥
+✅ If you found this helpful, **please star⭐ the repository!**  
+💡 **Have a different approach? Found a bug?**  
+Let’s discuss and improve the solution together! Drop your thoughts below. 🚀🔥
