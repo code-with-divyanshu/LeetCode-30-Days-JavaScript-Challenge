@@ -70,7 +70,8 @@ node solution.js
 | ✅ 12 | [Add Two Promises Function](https://leetcode.com/problems/add-two-promises/description/)                                         | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_12_Add_Two_Promises)            |
 | ✅ 13 | [Sleep Function](https://leetcode.com/problems/sleep/description)                                                                | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_13_Sleep)                       |
 | ✅ 14 | [Timeout Cancellation Function](https://leetcode.com/problems/timeout-cancellation/description)                                  | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_14_Timeout_Cancellation)        |
-| 🔄 15 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 15 | [Interval Cancellation Function](https://leetcode.com/problems/interval-cancellation/description)                                | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_15_Interval_Cancellation)       |
+| 🔄 16 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
