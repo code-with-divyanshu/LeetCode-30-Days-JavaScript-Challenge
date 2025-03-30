@@ -71,7 +71,8 @@ node solution.js
 | ✅ 13 | [Sleep Function](https://leetcode.com/problems/sleep/description)                                                                | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_13_Sleep)                       |
 | ✅ 14 | [Timeout Cancellation Function](https://leetcode.com/problems/timeout-cancellation/description)                                  | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_14_Timeout_Cancellation)        |
 | ✅ 15 | [Interval Cancellation Function](https://leetcode.com/problems/interval-cancellation/description)                                | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_15_Interval_Cancellation)       |
-| 🔄 16 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 16 | [Promise Time Limit Function](https://leetcode.com/problems/promise-time-limit/description/)                                     | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_16_Promise_Time_Limit)          |
+| 🔄 17 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
