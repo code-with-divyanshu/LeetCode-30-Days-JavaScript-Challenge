@@ -74,7 +74,8 @@ node solution.js
 | ✅ 16 | [Promise Time Limit Function](https://leetcode.com/problems/promise-time-limit/description/)                                     | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_16_Promise_Time_Limit)          |
 | ✅ 17 | [Cache With Time Limit Function](https://leetcode.com/problems/cache-with-time-limit/description/)                               | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_17_Cache_With_Time_Limit)       |
 | ✅ 18 | [Cache With Time Limit Function](https://leetcode.com/problems/debounce/description)                                             | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_18_Debounce)                    |
-| 🔄 19 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 19 | [Cache With Time Limit Function](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description)           | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_19_Execute_Async_Fn_Parallel)   |
+| 🔄 20 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
