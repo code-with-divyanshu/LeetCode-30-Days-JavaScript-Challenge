@@ -76,7 +76,8 @@ node solution.js
 | ✅ 18 | [Debounce Function](https://leetcode.com/problems/debounce/description)                                                          | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_18_Debounce)                    |
 | ✅ 19 | [Execute Asynchronus Function In Parallel](https://leetcode.com/problems/execute-asynchronous-functions-in-parallel/description) | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_19_Execute_Async_Fn_Parallel)   |
 | ✅ 20 | [Is Object Empty Function](https://leetcode.com/problems/is-object-empty/description/)                                           | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_20_IsObject_Empty)              |
-| 🔄 21 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 21 | [Chunk Array Function](https://leetcode.com/problems/chunk-array/description/)                                                   | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_21_Chunk_Array)                 |
+| 🔄 22 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
