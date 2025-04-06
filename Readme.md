@@ -78,8 +78,8 @@ node solution.js
 | ✅ 20 | [Is Object Empty Function](https://leetcode.com/problems/is-object-empty/description/)                                           | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_20_IsObject_Empty)              |
 | ✅ 21 | [Chunk Array Function](https://leetcode.com/problems/chunk-array/description/)                                                   | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_21_Chunk_Array)                 |
 | ✅ 22 | [Array Prototype Last Function](https://leetcode.com/problems/array-prototype-last/description/)                                 | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_22_Array_Prototype_Last)        |
-| ✅ 22 | [Group By Function](https://leetcode.com/problems/group-by/description/)                                                         | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_23_Group_By)                    |
-| 🔄 23 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 23 | [Group By Function](https://leetcode.com/problems/group-by/description/)                                                         | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_23_Group_By)                    |
+| 🔄 24 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
