@@ -1,7 +1,3 @@
-Here's your LeetCode GitHub-style markdown for **Day 23: Group By**, exactly in the format you asked:
-
----
-
 # 🚀 LeetCode - 30 Days JavaScript Challenge
 
 ## 📅 Day 23: Group By
