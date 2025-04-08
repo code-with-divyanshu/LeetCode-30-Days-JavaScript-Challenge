@@ -80,7 +80,8 @@ node solution.js
 | ✅ 22 | [Array Prototype Last Function](https://leetcode.com/problems/array-prototype-last/description/)                                 | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_22_Array_Prototype_Last)        |
 | ✅ 23 | [Group By Function](https://leetcode.com/problems/group-by/description/)                                                         | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_23_Group_By)                    |
 | ✅ 24 | [Sort By Function](https://leetcode.com/problems/sort-by/description/)                                                           | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_24_Sort_By)                     |
-| 🔄 25 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 25 | [Join Two Arrays by ID Function](https://leetcode.com/problems/join-two-arrays-by-id/description/)                               | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_25_Join_Two_Arrays_by_ID)       |
+| 🔄 26 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
