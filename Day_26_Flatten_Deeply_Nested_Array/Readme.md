@@ -99,7 +99,7 @@ Where `n` is the total number of elements, including nested ones.
 ## 🔗 Solution Discussion
 
 Check out my solution on LeetCode:  
-👉 [2625. Flatten Deeply Nested Array - Solution](https://leetcode.com/problems/flatten-deeply-nested-array/solutions/6630702/2625-flatten-deeply-nested-array-depth-based-js-recursion/)
+👉 [2625. Flatten Deeply Nested Array - Solution](https://leetcode.com/problems/flatten-deeply-nested-array/solutions/6633483/2625-flatten-deeply-nested-array-solutio-pimu)
 
 ---
 
