@@ -82,7 +82,8 @@ node solution.js
 | ✅ 24 | [Sort By Function](https://leetcode.com/problems/sort-by/description/)                                                           | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_24_Sort_By)                     |
 | ✅ 25 | [Join Two Arrays by ID Function](https://leetcode.com/problems/join-two-arrays-by-id/description/)                               | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_25_Join_Two_Arrays_by_ID)       |
 | ✅ 26 | [Flatten Deeply Nested Array Function](https://leetcode.com/problems/flatten-deeply-nested-array/description/)                   | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_26_Flatten_Deeply_Nested_Array) |
-| 🔄 27 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 27 | [Compact Object Function](https://leetcode.com/problems/compact-object/description/)                                             | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_27_Compact_Object)              |
+| 🔄 28 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
