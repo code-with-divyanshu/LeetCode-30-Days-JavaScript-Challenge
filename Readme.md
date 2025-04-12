@@ -84,7 +84,8 @@ node solution.js
 | ✅ 26 | [Flatten Deeply Nested Array Function](https://leetcode.com/problems/flatten-deeply-nested-array/description/)                   | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_26_Flatten_Deeply_Nested_Array) |
 | ✅ 27 | [Compact Object Function](https://leetcode.com/problems/compact-object/description/)                                             | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_27_Compact_Object)              |
 | ✅ 28 | [Event Emitter Function](https://leetcode.com/problems/event-emitter/description/)                                               | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_28_Event_Emitter)               |
-| 🔄 29 | In Progress                                                                                                                      | --                                                                                                                                    |
+| ✅ 29 | [Array Wrapper Function](https://leetcode.com/problems/array-wrapper/description)                                                | [Solution](https://github.com/code-with-divyanshu/LeetCode-30-Days-JavaScript-Challenge/tree/main/Day_29_Array_Wrapper)               |
+| 🔄 30 | In Progress                                                                                                                      | --                                                                                                                                    |
 
 _(Updating daily! 🚀)_
 
